@@ -234,3 +234,4 @@ cython_debug/
 /.idea/vcs.xml
 !/config.ini
 /config.ini
+/.idea/openai_chatbot_local.iml
